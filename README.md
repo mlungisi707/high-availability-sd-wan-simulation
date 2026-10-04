@@ -1,4 +1,5 @@
 # High-Availability Enterprise WAN Architecture: Manual SD-WAN Simulation
+![Architectural Blueprint Layout](sd-wan-topology.png)
 A production-grade implementation of a multi-provider Wide Area Network (WAN) featuring dual transport links, secure GRE virtualization overlays, and automated performance-based SLA path failovers built from a blank canvas in Cisco Modeling Labs (CML).
 
 ## 📊 Network Topology Blueprint
